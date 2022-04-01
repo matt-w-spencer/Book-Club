@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "561ec4fe-e602-4a11-97f0-f08a98f0ceb7": {
+      "ProjectGuid": "561ec4fe-e602-4a11-97f0-f08a98f0ceb7",
+      "DisplayName": "BookClub.UI",
+      "ColorIndex": 0
+    },
+    "ac8a4cd3-2429-4333-9557-1c308cfc4c0d": {
+      "ProjectGuid": "ac8a4cd3-2429-4333-9557-1c308cfc4c0d",
+      "DisplayName": "BookClub.Data",
+      "ColorIndex": 1
+    },
+    "355c09e3-37ce-4c8d-812e-e17ee3778fe0": {
+      "ProjectGuid": "355c09e3-37ce-4c8d-812e-e17ee3778fe0",
+      "DisplayName": "BookClub.Model",
+      "ColorIndex": 2
+    },
+    "b9b1b473-7086-465b-8275-9103ffdf8eb8": {
+      "ProjectGuid": "b9b1b473-7086-465b-8275-9103ffdf8eb8",
+      "DisplayName": "TestProject",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

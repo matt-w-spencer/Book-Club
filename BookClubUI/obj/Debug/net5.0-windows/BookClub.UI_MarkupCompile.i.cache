@@ -1,0 +1,20 @@
+﻿BookClub.UI
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\matt\OneDrive\Documents\MSSA-AU CAD\Bookclub\repos\BookClubUI\obj\Debug\net5.0-windows\
+BookClub.UI
+none
+false
+TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+C:\Users\matt\OneDrive\Documents\MSSA-AU CAD\Bookclub\repos\BookClubUI\App.xaml
+4-480219417
+
+91265599460
+196292398293
+MainWindow.xaml;Views\AuthorView.xaml;Views\BookView.xaml;Views\ReaderView.xaml;
+
+False
+

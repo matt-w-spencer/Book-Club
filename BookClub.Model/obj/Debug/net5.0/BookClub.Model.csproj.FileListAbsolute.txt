@@ -1,0 +1,24 @@
+C:\Users\LabUser\source\repos\BookClub.Model\bin\Debug\net5.0\BookClub.Model.deps.json
+C:\Users\LabUser\source\repos\BookClub.Model\bin\Debug\net5.0\BookClub.Model.dll
+C:\Users\LabUser\source\repos\BookClub.Model\bin\Debug\net5.0\ref\BookClub.Model.dll
+C:\Users\LabUser\source\repos\BookClub.Model\bin\Debug\net5.0\BookClub.Model.pdb
+C:\Users\LabUser\source\repos\BookClub.Model\obj\Debug\net5.0\BookClub.Model.csproj.AssemblyReference.cache
+C:\Users\LabUser\source\repos\BookClub.Model\obj\Debug\net5.0\BookClub.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LabUser\source\repos\BookClub.Model\obj\Debug\net5.0\BookClub.Model.AssemblyInfoInputs.cache
+C:\Users\LabUser\source\repos\BookClub.Model\obj\Debug\net5.0\BookClub.Model.AssemblyInfo.cs
+C:\Users\LabUser\source\repos\BookClub.Model\obj\Debug\net5.0\BookClub.Model.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\source\repos\BookClub.Model\obj\Debug\net5.0\BookClub.Model.dll
+C:\Users\LabUser\source\repos\BookClub.Model\obj\Debug\net5.0\ref\BookClub.Model.dll
+C:\Users\LabUser\source\repos\BookClub.Model\obj\Debug\net5.0\BookClub.Model.pdb
+C:\Users\matt\OneDrive\Documents\MSSA-AU CAD\Bookclub\repos\BookClub.Model\bin\Debug\net5.0\BookClub.Model.deps.json
+C:\Users\matt\OneDrive\Documents\MSSA-AU CAD\Bookclub\repos\BookClub.Model\bin\Debug\net5.0\BookClub.Model.dll
+C:\Users\matt\OneDrive\Documents\MSSA-AU CAD\Bookclub\repos\BookClub.Model\bin\Debug\net5.0\ref\BookClub.Model.dll
+C:\Users\matt\OneDrive\Documents\MSSA-AU CAD\Bookclub\repos\BookClub.Model\bin\Debug\net5.0\BookClub.Model.pdb
+C:\Users\matt\OneDrive\Documents\MSSA-AU CAD\Bookclub\repos\BookClub.Model\obj\Debug\net5.0\BookClub.Model.csproj.AssemblyReference.cache
+C:\Users\matt\OneDrive\Documents\MSSA-AU CAD\Bookclub\repos\BookClub.Model\obj\Debug\net5.0\BookClub.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matt\OneDrive\Documents\MSSA-AU CAD\Bookclub\repos\BookClub.Model\obj\Debug\net5.0\BookClub.Model.AssemblyInfoInputs.cache
+C:\Users\matt\OneDrive\Documents\MSSA-AU CAD\Bookclub\repos\BookClub.Model\obj\Debug\net5.0\BookClub.Model.AssemblyInfo.cs
+C:\Users\matt\OneDrive\Documents\MSSA-AU CAD\Bookclub\repos\BookClub.Model\obj\Debug\net5.0\BookClub.Model.csproj.CoreCompileInputs.cache
+C:\Users\matt\OneDrive\Documents\MSSA-AU CAD\Bookclub\repos\BookClub.Model\obj\Debug\net5.0\BookClub.Model.dll
+C:\Users\matt\OneDrive\Documents\MSSA-AU CAD\Bookclub\repos\BookClub.Model\obj\Debug\net5.0\ref\BookClub.Model.dll
+C:\Users\matt\OneDrive\Documents\MSSA-AU CAD\Bookclub\repos\BookClub.Model\obj\Debug\net5.0\BookClub.Model.pdb
