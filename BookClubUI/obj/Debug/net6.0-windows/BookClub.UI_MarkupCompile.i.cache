@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\matt\OneDrive\Documents\MSSA-AU CAD\Bookclub\repos\BookClubUI\obj\Debug\net6.0-windows\
+C:\Users\matt\Documents\Programs\Bookclub\repos\BookClubUI\obj\Debug\net6.0-windows\
 BookClub.UI
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\matt\OneDrive\Documents\MSSA-AU CAD\Bookclub\repos\BookClubUI\App.xaml
+C:\Users\matt\Documents\Programs\Bookclub\repos\BookClubUI\App.xaml
 31260210542
 
 9125284267
-219841990887
+2191810881040
 MainWindow.xaml;Views\BookView.xaml;Views\ReaderView.xaml;
 
 False

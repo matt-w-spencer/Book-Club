@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iYeZhCAJI1srR7bKM2WMXOp+y/qiKt7V/RPQXmx2m0/Tz3CvT5jt23DANJJaxezND3EPVR+wn1AZdT1e/0koGg==",
+  "dgSpecHash": "CY/aZ1VFmd2jqktdwZIGFY33VJpSOIJflM4qfxuuZNjuG525EfcGazs5JIJ4hLHHcv+tWaUatDhuWRk/W0V+OA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\BookClub.Model\\BookClub.Model.csproj",
+  "projectFilePath": "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\BookClub.Model\\BookClub.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matt\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\matt\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jj+AMgev+LnpG64Q/dGuvmxoL3CsHxijueec1me+/bOSkL/q9+qEl1Bp4Uqkf2+qecUJwaA3A2yLvjx40huiYQ==",
+  "dgSpecHash": "mULQFvrHgr8X9xA6usoY92Gi+0J5SV+B0PYZgV16vLX+LBgu25GYOPjCERoJXa1F/a7lW+l3W6UWWaxmiCQsFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\BookClubUI\\BookClub.UI.csproj",
+  "projectFilePath": "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\BookClubUI\\BookClub.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matt\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\matt\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

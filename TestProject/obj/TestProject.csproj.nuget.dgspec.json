@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\BookClub.Model\\BookClub.Model.csproj": {
+    "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\BookClub.Model\\BookClub.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\BookClub.Model\\BookClub.Model.csproj",
+        "projectUniqueName": "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\BookClub.Model\\BookClub.Model.csproj",
         "projectName": "BookClub.Model",
-        "projectPath": "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\BookClub.Model\\BookClub.Model.csproj",
+        "projectPath": "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\BookClub.Model\\BookClub.Model.csproj",
         "packagesPath": "C:\\Users\\matt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\BookClub.Model\\obj\\",
+        "outputPath": "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\BookClub.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\matt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -96,8 +96,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\BookClub.Model\\BookClub.Model.csproj": {
-                "projectPath": "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\BookClub.Model\\BookClub.Model.csproj"
+              "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\BookClub.Model\\BookClub.Model.csproj": {
+                "projectPath": "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\BookClub.Model\\BookClub.Model.csproj"
               }
             }
           }

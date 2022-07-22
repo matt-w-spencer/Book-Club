@@ -6911,11 +6911,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\BookClubUI\\BookClub.UI.csproj",
+      "projectUniqueName": "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\BookClubUI\\BookClub.UI.csproj",
       "projectName": "BookClub.UI",
-      "projectPath": "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\BookClubUI\\BookClub.UI.csproj",
+      "projectPath": "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\BookClubUI\\BookClub.UI.csproj",
       "packagesPath": "C:\\Users\\matt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\BookClubUI\\obj\\",
+      "outputPath": "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\BookClubUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6932,11 +6932,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\BookBlub\\BookClub.Data.csproj": {
-              "projectPath": "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\BookBlub\\BookClub.Data.csproj"
+            "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\BookBlub\\BookClub.Data.csproj": {
+              "projectPath": "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\BookBlub\\BookClub.Data.csproj"
             },
-            "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\BookClub.Model\\BookClub.Model.csproj": {
-              "projectPath": "C:\\Users\\matt\\OneDrive\\Documents\\MSSA-AU CAD\\Bookclub\\repos\\BookClub.Model\\BookClub.Model.csproj"
+            "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\BookClub.Model\\BookClub.Model.csproj": {
+              "projectPath": "C:\\Users\\matt\\Documents\\Programs\\Bookclub\\repos\\BookClub.Model\\BookClub.Model.csproj"
             }
           }
         }
